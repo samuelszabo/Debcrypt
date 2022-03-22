@@ -1,3 +1,9 @@
-# Debcrypt
-A script crack bcrypt hash. 
-![Demo](https://s2.anh.im/2017/08/05/Screenshot_2017-08-05_03-17-231f72b.png)
+# Debcrypt multiple hashes
+A script to crack multiple bcrypt hashes.
+ 
+# Setup
+1. Place your hashes into `hashes.txt`
+2. Place words into `words.txt`
+3. run `python3 crack.py`
+
+![Demo](https://i.ibb.co/Kjtf6r2/22-03-2022-08-34-38-REC.png)
